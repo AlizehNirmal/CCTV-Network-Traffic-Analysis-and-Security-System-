@@ -1,0 +1,10 @@
+    background: #1e2d4a; color: #7eb8f7;
+}
+.alert-time { color: #4a6fa5; font-size: 10px; }
+.alert-msg  { color: #c0cce0; margin-bottom: 4px; }
+.alert-ips  { color: #4a6fa5; font-size: 10px; }
+
+.severity-badge { font-size: 9px; letter-spacing: 1px; padding: 1px 6px; border-radius: 3px; }
+.severity-badge.HIGH   { background: #ff444420; color: #ff4444; }
+.severity-badge.MEDIUM { background: #ffaa0020; color: #ffaa00; }
+.severity-badge.LOW    { background: #00ff8820; color: #00ff88; }
